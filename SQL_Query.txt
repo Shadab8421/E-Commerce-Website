@@ -1,0 +1,5 @@
+
+
+		CREATE TABLE `products` (`id` int(100) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+				`product_name` varchar(80) NOT NULL,
+				`product_details` varchar(200) NOT NULL);

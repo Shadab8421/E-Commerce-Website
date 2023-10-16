@@ -1,0 +1,7 @@
+Font : Times new roman
+paragraph line spacing 1.5
+alignment:justify
+margin top right bottom: 0.5
+leaft: 1 
+font-size: heading:16 , sub-heaing:12, description:10;
+index:
